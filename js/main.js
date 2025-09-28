@@ -25,9 +25,9 @@ var doc=document,flower=doc.querySelector('.flower'),petalPartMarkup='<div class
     'Esta flor es para ti',
     'Te quiero mucho',
     'Gracias por todo',
-    '¡Eres especial!',
-    '¡Eimy❤️!'
-  ];
+    '¡Eres especial para mi!', 
+    ' Querida Eimy ❤️'
+  ]
   
   var wrapper = document.querySelector('.wrapper');
   var msg = document.querySelector('.flower-message');
